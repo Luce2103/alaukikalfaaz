@@ -1,43 +1,72 @@
 ---
-{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-firaq/kahun-ye-kaise-idhar-dekh-ya-na-dekh-udhar/","noteIcon":"","created":"2025-09-28T00:06:22.348+05:30","updated":"2025-08-27T15:56:04.000+05:30"}
+{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-firaq/kahun-ye-kaise-idhar-dekh-ya-na-dekh-udhar/","noteIcon":"","created":"2025-09-28T00:06:22.348+05:30","updated":"2025-12-15T14:13:24.753+05:30"}
 ---
 
 
 
-aa.ī hai kuchh na pūchh qayāmat kahāñ kahāñ
-uf le ga.ī hai mujh ko mohabbat kahāñ kahāñ
+किसी का यूँ तो हुआ कौन उम्र भर फिर भी
+ये हुस्न ओ इश्क़ तो धोका है सब मगर फिर भी
 
-betābī-o-sukūñ kī huiiñ manzileñ tamām
-bahlā.eñ tujh se chhuT ke tabī'at kahāñ kahāñ
+हज़ार बार ज़माना इधर से गुज़रा है
+नई नई सी है कुछ तेरी रहगुज़र फिर भी
 
-furqat ho yā visāl vahī iztirāb hai
-terā asar hai ai ġham-e-furqat kahāñ kahāñ
+कहूँ ये कैसे इधर देख या न देख उधर
+कि दर्द दर्द है फिर भी नज़र नज़र फिर भी
 
-rāh-e-talab meñ chhoḌ diyā dil kā saath bhī
-phirte liye hue ye musībat kahāñ kahāñ
+ख़ुशा इशारा-ए-पैहम ज़हे सुकूत-ए-नज़र
+दराज़ हो के फ़साना है मुख़्तसर फिर भी
 
-dil ke ufuq tak ab to haiñ parchhā.iyāñ tirī
-le jaa.e ab to dekh ye vahshat kahāñ kahāñ
+झपक रही हैं ज़मान ओ मकाँ की भी आँखें
+मगर है क़ाफ़िला आमादा-ए-सफ़र फिर भी
 
-ai nargis-e-siyāh batā de tire nisār
-kis kis ko hai ye hosh ye ġhaflat kahāñ kahāñ
+शब-ए-फ़िराक़ से आगे है आज मेरी नज़र
+कि कट ही जाएगी ये शाम-ए-बे-सहर फिर भी
 
-nairañg-e-ishq kī hai koī intihā ki ye
-ye ġham kahāñ kahāñ ye masarrat kahāñ kahāñ
+कहीं यही तो नहीं काशिफ़-ए-हयात-ओ-ममात
+ये हुस्न ओ इश्क़ ब-ज़ाहिर हैं बे-ख़बर फिर भी
 
-farq aa gayā thā daur-e-hayāt-o-mamāt meñ
-aa.ī hai aaj yaad vo sūrat kahāñ kahāñ
+पलट रहे हैं ग़रीब-उल-वतन पलटना था
+वो कूचा रू-कश-ए-जन्नत हो घर है घर फिर भी
+	Here Firaq establishes a literary dialogue with the Indian tradition, with the tradition of Ramayana in particular, this simile is used in Valmiki Ramayana as well as by Goswami Tulsidas in his Ramcharitmanas 
 
-jaise fanā baqā meñ bhī koī kamī sī ho
-mujh ko paḌī hai terī zarūrat kahāñ kahāñ
+---
+	Ramcharitmanas:
+	आवत हिय हरषै नहीं, ननैन नहीं सनेह। 
+	‘तलुसी’ तहाँन जाइए, कंचन बरसे मेह॥
 
-duniyā se ai dil itnī tabī'at bharī na thī
-tere liye uThā.ī nadāmat kahāñ kahāñ
+---
+	Valmikli Ramayana
+	अपि स्वर्णमयी लङ्का न मे लक्ष्मण रोचते । 
+	जननी जन्मभूमिश्च स्वर्गादपि गरीयसी ॥
 
-ab imtiyāz-e-ishq-o-havas bhī nahīñ rahā
-hotī hai terī chashm-e-ināyat kahāñ kahāñ
+लुटा हुआ चमन-ए-इश्क़ है निगाहों को
+दिखा गया वही क्या क्या गुल ओ समर फिर भी
 
-har gaam par tarīq-e-mohabbat meñ maut thī
-is raah meñ khule dar-e-rahmat kahāñ kahāñ
+ख़राब हो के भी सोचा किए तिरे महजूर
+यही कि तेरी नज़र है तिरी नज़र फिर भी
+
+हो बे-नियाज़-ए-असर भी कभी तिरी मिट्टी
+वो कीमिया ही सही रह गई कसर फिर भी
+
+लिपट गया तिरा दीवाना गरचे मंज़िल से
+उड़ी उड़ी सी है ये ख़ाक-ए-रहगुज़र फिर भी
+
+तिरी निगाह से बचने में उम्र गुज़री है
+उतर गया रग-ए-जाँ में ये नेश्तर फिर भी
+
+ग़म-ए-फ़िराक़ के कुश्तों का हश्र क्या होगा
+ये शाम-ए-हिज्र तो हो जाएगी सहर फिर भी
+
+फ़ना भी हो के गिराँ-बारी-ए-हयात न पूछ
+उठाए उठ नहीं सकता ये दर्द-ए-सर फिर भी
+
+सितम के रंग हैं हर इल्तिफ़ात-ए-पिन्हाँ में
+करम-नुमा हैं तिरे जौर सर-ब-सर फिर भी
+
+ख़ता-मुआफ़ तिरा अफ़्व भी है मिस्ल-ए-सज़ा
+तिरी सज़ा में है इक शान-ए-दर-गुज़र फिर भी
+
+अगरचे बे-ख़ुदी-ए-इश्क़ को ज़माना हुआ
+'फ़िराक़' करती रही काम वो नज़र फिर भी
 
 

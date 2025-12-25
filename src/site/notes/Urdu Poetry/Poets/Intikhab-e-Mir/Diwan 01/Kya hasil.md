@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-mir/diwan-01/kya-hasil/","noteIcon":"","created":"2025-09-28T00:07:14.437+05:30","updated":"2025-08-27T15:58:00.000+05:30"}
+{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-mir/diwan-01/kya-hasil/","noteIcon":"","created":"2025-09-28T00:07:14.437+05:30","updated":"2025-12-02T20:31:29.390+05:30"}
 ---
 
 
@@ -10,7 +10,7 @@
 
 Translation:
 If there is no sorrow of meaning in your thoughts, and no pain in the heart—what’s the point?
-Even if your paper is damp with emotion, and your color is pale—what’s the point?
+Even if your paper is damp with emotion, and your colour is pale—what’s the point?
 
 Interpretation:
 Mir is questioning the authenticity of emotion in poetic expression. He’s addressing poets or perhaps even himself. Saying:
@@ -19,7 +19,7 @@ Mir is questioning the authenticity of emotion in poetic expression. He’s addr
 
 
 
-It’s a powerful takedown of superficial expression. He values genuine pain over performative sorrow.
+It’s a powerful take down of superficial expression. He values genuine pain over performative sorrow.
 
 
 ---

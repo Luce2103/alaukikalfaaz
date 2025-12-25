@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-momin/wo-jo-hum-men-tum-men-qarar-tha/","noteIcon":"","created":"2025-11-08T08:28:17.800+05:30","updated":"2025-12-02T14:45:01.234+05:30"}
+{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-momin/wo-jo-hum-men-tum-men-qarar-tha/","noteIcon":"","created":"2025-11-08T08:28:17.800+05:30","updated":"2025-12-02T15:26:19.316+05:30"}
 ---
 
 
@@ -30,7 +30,7 @@
 	 
 
 ---
-	The poet is thinking back to the times when the beloved used to complain to him about every small thing and her sulking on everything he said, implying the level of affection she had for him as "you would only get mad on the people whom you know would try to win you back over", use pata tha ki wo jitni bar usse ruthegi, wo har bar use manayega hi. 
+	The poet is thinking back to the times when the beloved used to complain to him about every small thing and her sulking on everything he said, implying the level of affection she had for him as "you would only get mad on the people whom you know would try to win you back over". 
 
 कभी बैठे सब में जो रू-ब-रू तो इशारतों ही से गुफ़्तुगू
 वो बयान शौक़ का बरमला तुम्हें याद हो कि न याद हो
