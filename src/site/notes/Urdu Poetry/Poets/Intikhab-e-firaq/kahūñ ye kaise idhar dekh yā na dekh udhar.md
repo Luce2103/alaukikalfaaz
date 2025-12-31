@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-firaq/kahun-ye-kaise-idhar-dekh-ya-na-dekh-udhar/","noteIcon":"","created":"2025-09-28T00:06:22.348+05:30","updated":"2025-12-15T14:13:24.753+05:30"}
+{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-firaq/kahun-ye-kaise-idhar-dekh-ya-na-dekh-udhar/","noteIcon":"","created":"2025-09-28T00:06:22.348+05:30","updated":"2025-12-31T14:14:32.537+05:30"}
 ---
 
 
@@ -12,6 +12,21 @@
 
 कहूँ ये कैसे इधर देख या न देख उधर
 कि दर्द दर्द है फिर भी नज़र नज़र फिर भी
+	How can i look here or there 
+	the pain is pain but the sight is sight nonetheless 
+
+---
+	the couplet seems to imply that there is a disconnect between his sight and the pain, the psyche of the lover has split in half, on one hand he wants to see the beloved because, the sight of her is always pleasant no matter the circumstances.
+	a sher which conveys this emotion
+	*yehi buhat hai ke dil us ko dhoond laaya hai*  
+	*kisi ke saath sahi wo nazar to aaya hai*
+
+---
+	This emotion of doing one thing or the other has been used quite a lot in classical ghazal as well, this sher of Ghalib is an excellent example of that-
+	*dil phir tavāf-e-kū-e-malāmat ko jaa.e hai*
+	*pindār kā sanam-kada vīrāñ kiye hue*
+	Read more at[[Urdu Poetry/Poets/Intikhab-e-Ghalib/Dil phir tawaf-e-ku-e-malamat/Dil phir tawaf-e-ku-e-malamat ko jaye hai\|Dil phir tawaf-e-ku-e-malamat ko jaye hai]]
+
 
 ख़ुशा इशारा-ए-पैहम ज़हे सुकूत-ए-नज़र
 दराज़ हो के फ़साना है मुख़्तसर फिर भी
