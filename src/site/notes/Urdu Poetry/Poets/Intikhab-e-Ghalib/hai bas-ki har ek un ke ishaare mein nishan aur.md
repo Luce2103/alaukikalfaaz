@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-ghalib/hai-bas-ki-har-ek-un-ke-ishaare-mein-nishan-aur/","noteIcon":"","created":"2025-09-28T00:07:14.029+05:30","updated":"2025-09-09T03:16:30.000+05:30"}
+{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-ghalib/hai-bas-ki-har-ek-un-ke-ishaare-mein-nishan-aur/","noteIcon":"","created":"2025-09-28T00:07:14.029+05:30","updated":"2026-01-13T21:19:38.715+05:30"}
 ---
 
 **hai bas-ki har ek un ke ishaare mein nishan aur**
@@ -7,7 +7,7 @@
 *`to such an extent in her every gesture lies another sign`*
 *`when she shows affection something else entirely goes through the mind`*
 
-`the beloved always seems to have an alterior motive behind her behavior/acts and hence when she's showing affection to the poet, the idea crosses the mind of the poet that what she might be up to now`
+`the beloved always seems to have an alterior motive behind her behavior/acts and hence when she's showing affection to the poet, the idea crosses the mind of the poet that what she might be up to now, surely she's not being affectionate for the sake of it`
 
 ---
 ``

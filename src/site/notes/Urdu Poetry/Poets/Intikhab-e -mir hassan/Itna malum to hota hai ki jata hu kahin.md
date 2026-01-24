@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-mir-hassan/itna-malum-to-hota-hai-ki-jata-hu-kahin/","noteIcon":"","created":"2025-09-28T00:06:18.048+05:30","updated":"2025-11-28T09:15:07.034+05:30"}
+{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-mir-hassan/itna-malum-to-hota-hai-ki-jata-hu-kahin/","noteIcon":"","created":"2025-09-28T00:06:18.048+05:30","updated":"2025-12-31T14:27:41.300+05:30"}
 ---
 
 बस कि चूँ बद्र-ए-ज़माना ये घटाता है मुझे
@@ -10,6 +10,7 @@
 
 इतना मालूम तो होता है कि जाता हूँ कहीं
 कोई है मुझ में कि मुझ से लिए जाता है मुझे
+	
 
 याद मैं किस की करूँ मुझ को कहाँ होश-ओ-हवास
 अपनी ही याद से ये इश्क़ भुलाता है मुझे

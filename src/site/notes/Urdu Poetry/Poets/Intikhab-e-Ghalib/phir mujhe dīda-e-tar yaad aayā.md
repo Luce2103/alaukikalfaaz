@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-ghalib/phir-mujhe-dida-e-tar-yaad-aaya/","noteIcon":"","created":"2025-09-28T00:07:14.265+05:30","updated":"2025-09-28T14:14:21.260+05:30"}
+{"dg-publish":true,"permalink":"/urdu-poetry/poets/intikhab-e-ghalib/phir-mujhe-dida-e-tar-yaad-aaya/","noteIcon":"","created":"2025-09-28T00:07:14.265+05:30","updated":"2026-01-13T22:08:47.605+05:30"}
 ---
 
 **phir mujhe dīda-e-tar yaad aayā**
